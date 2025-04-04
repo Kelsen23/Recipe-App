@@ -35,16 +35,6 @@ npm run dev
 yarn dev
 ```
 
-## Project Structure
-
-src/
-├── components/
-│   └── RecipeApp.tsx       # Main UI component with form and recipe list
-├── store/
-│   └── useStore.ts         # Zustand store
-├── App.tsx                 # Renders the RecipeApp
-└── main.tsx                # ReactDOM entry point
-
 ## Technologies Used
 
 - [React](https://reactjs.org/)
