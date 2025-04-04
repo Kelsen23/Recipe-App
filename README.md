@@ -45,9 +45,9 @@ yarn dev
 
 ## Todo / Possible Improvements
 
-🔄 Persist recipes using localStorage or a database
-🔍 Search & filter functionality
-🌙 Dark mode
+- 🔄 Persist recipes using localStorage or a database
+- 🔍 Search & filter functionality
+- 🌙 Dark mode
 
 ## License
 
