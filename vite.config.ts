@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/recipe-app/"
+  base: "/Recipe-App/"
 })
